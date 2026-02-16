@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.memoryGame {
+  width: 75vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.gameInfo {
+  width: 100%;
+  font-family: "roboto";
+  font-size: 20px;
+  color: white;
+}
+
+.resetButton {
+  background-color: #7776bc;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 200px;
+  font-size: 18px;
+}
+
+.cardGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popupContent {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 600px;
+  height: 500px;
+}
+
+.popupImage {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  width: 600px;
+  height: 300px;
+}
+
+.popupContent button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+}
+
+.projectButton {
+  background-color: #70A288;
+}
+
+.closeButton {
+  background-color: #571F4E;
+  color: white;
+}
+
+@media (max-width: 576px) {
+  .gameInfo {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .popupContent {
+    width: 500px;
+    height: 500px;
+  }
+
+  .memoryGame {
+    width: 80vw;
+}
+}

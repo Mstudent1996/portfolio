@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #571F4E;
+  min-height: 100svh;
+}
+
+.title {
+  font-family: "Akaya Telivigala";
+  font-size: 60px;
+  font-weight: 300;
+  margin-top: 10px;
+  color: white;
+}
+
+@media (max-width: 576px) {
+  .title {
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "Color Palette",
+    "tags": "react, kreativt projekt",
+    "mainImage": "/assets/color-palette3.png",
+    "stack": "react, css",
+    "type": "UI Tool",
+    "description": "Et visuelt værktøj udviklet til at teste og vurdere farvepaletter i praksis. Projektet kombinerer designforståelse med frontend-logik og har fokus på farveharmoni, kontrast og visuel balance.",
+    "learnedOne": "At omsætte æstetiske designprincipper til funktionelle UI-løsninger.",
+    "learnedTwo": "At arbejde bevidst med farver og visuel sammenhæng i frontend-udvikling.",
+    "video": "../assets/color-palette.mp4",
+    "imageOne": "../assets/color-palette1.png",
+    "imageTwo": "../assets/color-palette2.png",
+    "imageThree": "../assets/color-palette4.png",
+    "icon": "🎨"
+  },
+
+  {
+    "id": 1,
+    "title": "PetSnap",
+    "tags": "html, mock forum",
+    "mainImage": "../assets/petsnap3.png",
+    "stack": "html, tailwind",
+    "type": "Landing Page",
+    "description": "En landing page-mockup bygget som en praktisk øvelse i Tailwind CSS. Projektet fokuserer på layoutstruktur, spacing og responsivitet ved brug af utility-first styling.",
+    "learnedOne": "At opbygge layouts hurtigt og konsekvent med Tailwind CSS.",
+    "learnedTwo": "Hvordan tydelige designvalg forbedrer både struktur og brugeroplevelse.",
+    "imageOne": "../assets/petsnap1.png",
+    "imageTwo": "../assets/petsnap2.png",
+    "imageThree": "../assets/petsnap4.png",
+    "icon": "🐾"
+  },
+
+  {
+    "id": 2,
+    "title": "Ping laver mad",
+    "tags": "react, opskrifter",
+    "mainImage": "../assets/recipes1.png",
+    "stack": "react, css",
+    "type": "Web Application",
+    "description": "En simpel opskrifts- og madplanlægningsapplikation med fokus på overblik, struktur og brugervenlig navigation. Projektet er udviklet for at styrke forståelsen af logik, brugerflow og interaktion.",
+    "learnedOne": "At strukturere funktionalitet og indhold i en overskuelig applikation.",
+    "learnedTwo": "At tænke i brugeroplevelse frem for kun funktionalitet.",
+    "imageOne": "../assets/recipes2.png",
+    "imageTwo": "../assets/recipes3.png",
+    "imageThree": "../assets/recipes4.png",
+    "imageFour": "../assets/recipes5.png",
+    "icon": "🍽️"
+  },
+
+  {
+    "id": 3,
+    "title": "To Do Liste",
+    "tags": "react, app mockup",
+    "mainImage": "../assets/to-do-list1.png",
+    "stack": "react, css",
+    "type": "Interactive Tool",
+    "description": "En klassisk to-do applikation udviklet med fokus på brugerinteraktion og tilstandshåndtering. Projektet demonstrerer grundlæggende logik, DOM-manipulation og funktionel struktur.",
+    "learnedOne": "At arbejde med brugerinput og dynamisk opdatering af indhold.",
+    "learnedTwo": "Vigtigheden af klar struktur og simpel logik i interaktive løsninger.",
+    "imageOne": "../assets/to-do-list2.png",
+    "imageTwo": "../assets/to-do-list3.png",
+    "icon": "📝"
+  },
+
+  {
+    "id": 4,
+    "title": "Plug and Pick",
+    "tags": "react, stor webshop",
+    "mainImage": "../assets/webshop1.png",
+    "stack": "react, css",
+    "type": "E-commerce Web Application",
+    "description": "En større webshop-prototype udviklet med fokus på struktur, navigation og flere sammenhængende sider. Projektet simulerer funktionalitet og opbygning fra en reel webshop.",
+    "learnedOne": "At strukturere og vedligeholde et projekt med flere sider og komponenter.",
+    "learnedTwo": "Hvordan en klar mappestruktur forbedrer overblik og skalérbarhed.",
+    "imageOne": "../assets/webshop2.png",
+    "imageTwo": "../assets/webshop3.png",
+    "imageThree": "../assets/webshop4.png",
+    "icon": "🛒"
+  }
+]

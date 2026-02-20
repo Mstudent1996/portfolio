@@ -147,7 +147,6 @@ export default function ProjectSingle() {
       <h1 className={styles.title}>{project.title || "Projekt navn"}</h1>
 
       <div className={styles.contentGrid}>
-
         <div className={styles.mediaCol}>
           <button
             className={styles.mainFrameBtn}
@@ -252,7 +251,7 @@ export default function ProjectSingle() {
         {project.githubUrl ? (
           <a
             className={styles.githubBtn}
-            href={project.githubUrl}
+            href="URL"
             target="_blank"
             rel="noreferrer"
           >
@@ -261,6 +260,21 @@ export default function ProjectSingle() {
         ) : (
           <button className={styles.githubBtn} type="button">
             Find på github
+          </button>
+        )}
+
+        {project.demoUrl ? (
+          <a
+            className={styles.demoBtn}
+            href="URL"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Live demo
+          </a>
+        ) : (
+          <button className={styles.demoBtn} type="button">
+            Live demo
           </button>
         )}
 

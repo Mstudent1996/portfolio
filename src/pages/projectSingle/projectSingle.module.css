@@ -165,12 +165,10 @@
 }
 
 .bottomBar {
-  margin-top: auto;
+  margin-top: 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 18px;
-  padding-top: 14px;
 }
 
 .githubBtn,
@@ -187,6 +185,12 @@
   min-width: 160px;
   background-color: #571f4e;
   color: white;
+}
+
+.githubBtn:hover,
+.backBtn:hover,
+.demoBtn:hover {
+  background-color: #913281;
 }
 
 .overlay {

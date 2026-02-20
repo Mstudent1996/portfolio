@@ -2,7 +2,7 @@
 
 .aboutContainer {
   background-color: #7776bc;
-  min-height: 100vh;
+  height: 100%;
   color: #fff;
   padding: 18px 18px 26px;
   box-sizing: border-box;

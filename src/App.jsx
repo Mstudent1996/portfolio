@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import styles from "./app.module.css";
+import styles from "./App.module.css";
 import Sidebar from "./components/sidebar/sidebar";
 import Frontpage from "./pages/frontpage/frontpage";
 import Projects from "./pages/projects/projects";

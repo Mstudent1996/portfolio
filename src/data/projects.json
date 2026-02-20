@@ -51,17 +51,17 @@
 
   {
     "id": 3,
-    "title": "To Do Liste",
-    "tags": "react, app mockup",
-    "mainImage": "../assets/to-do-list1.png",
-    "stack": "react, css",
-    "type": "Interactive Tool",
-    "description": "En klassisk to-do applikation udviklet med fokus på brugerinteraktion og tilstandshåndtering. Projektet demonstrerer grundlæggende logik, DOM-manipulation og funktionel struktur.",
-    "learnedOne": "At arbejde med brugerinput og dynamisk opdatering af indhold.",
-    "learnedTwo": "Vigtigheden af klar struktur og simpel logik i interaktive løsninger.",
-    "imageOne": "../assets/to-do-list2.png",
-    "imageTwo": "../assets/to-do-list3.png",
-    "icon": "📝"
+    "title": "AI i Psykiatrien",
+    "tags": "html, css, ai, mental sundhed",
+    "mainImage": "../assets/ai-psykiatri1.png",
+    "stack": "html, css",
+    "type": "Web & PDF",
+    "description": "Et informativt webprojekt og tilhørende PDF, der undersøger hvordan AI kan anvendes i psykiatrien, samt hvilke etiske og sikkerhedsmæssige overvejelser der er nødvendige. Projektet kombinerer formidling, struktur og visuelt design for at gøre komplekse problemstillinger tilgængelige og nuancerede.",
+    "learnedOne": "At omsætte komplekse og følsomme emner til en klar, struktureret og brugervenlig digital form.",
+    "learnedTwo": "Vigtigheden af etisk refleksion, kildekritik og ansvarlig teknologiudvikling i sundhedsrelaterede løsninger.",
+    "imageOne": "../assets/ai-psykiatri2.png",
+    "imageTwo": "../assets/ai-psykiatri3.png",
+    "icon": "🧠"
   },
 
   {

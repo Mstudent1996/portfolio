@@ -6,7 +6,7 @@
   align-items: center;
   text-align: center;
   background-color: #571F4E;
-  min-height: 100svh;
+  height: 100%;
 }
 
 .title {

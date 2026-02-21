@@ -13,7 +13,9 @@
     "imageOne": "../assets/color-palette1.png",
     "imageTwo": "../assets/color-palette2.png",
     "imageThree": "../assets/color-palette4.png",
-    "icon": "🎨"
+    "icon": "🎨",
+    "githubUrl": "https://github.com/Mstudent1996/color-palette",
+    "demoUrl": "https://color-palette-pictures.netlify.app/"
   },
 
   {
@@ -29,7 +31,9 @@
     "imageOne": "../assets/petsnap1.png",
     "imageTwo": "../assets/petsnap2.png",
     "imageThree": "../assets/petsnap4.png",
-    "icon": "🐾"
+    "icon": "🐾",
+    "githubUrl": "https://github.com/Mstudent1996/petSnap",
+    "demoUrl": ""
   },
 
   {
@@ -46,7 +50,9 @@
     "imageTwo": "../assets/recipes3.png",
     "imageThree": "../assets/recipes4.png",
     "imageFour": "../assets/recipes5.png",
-    "icon": "🍽️"
+    "icon": "🍽️",
+    "githubUrl": "https://github.com/Mstudent1996/Ping-laver-mad",
+    "demoUrl": "https://ping-laver-mad.netlify.app/"
   },
 
   {
@@ -61,7 +67,9 @@
     "learnedTwo": "Vigtigheden af etisk refleksion, kildekritik og ansvarlig teknologiudvikling i sundhedsrelaterede løsninger.",
     "imageOne": "../assets/ai-psykiatri2.png",
     "imageTwo": "../assets/ai-psykiatri3.png",
-    "icon": "🧠"
+    "icon": "🧠",
+    "githubUrl": "https://github.com/Mstudent1996/ai-i-psykiatrien",
+    "demoUrl": "https://ai-i-psykiatrien.netlify.app/"
   },
 
   {
@@ -77,6 +85,8 @@
     "imageOne": "../assets/webshop2.png",
     "imageTwo": "../assets/webshop3.png",
     "imageThree": "../assets/webshop4.png",
-    "icon": "🛒"
+    "icon": "🛒",
+    "githubUrl": "https://github.com/Mstudent1996/plug-and-pick",
+    "demoUrl": "https://plug-and-pick.netlify.app/"
   }
 ]

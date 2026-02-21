@@ -51,7 +51,11 @@ export default function Sidebar() {
         />
 
         <div className={styles.sidebarGithub}>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/Mstudent1996"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FaGithub size={45} className={styles.sidebarGithubIcon} />
           </a>
         </div>

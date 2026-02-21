@@ -251,7 +251,7 @@ export default function ProjectSingle() {
         {project.githubUrl ? (
           <a
             className={styles.githubBtn}
-            href="URL"
+            href={project.githubUrl}
             target="_blank"
             rel="noreferrer"
           >
@@ -266,7 +266,7 @@ export default function ProjectSingle() {
         {project.demoUrl ? (
           <a
             className={styles.demoBtn}
-            href="URL"
+            href={project.demoUrl}
             target="_blank"
             rel="noreferrer"
           >

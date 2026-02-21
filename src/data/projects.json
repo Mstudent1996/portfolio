@@ -15,7 +15,7 @@
     "imageThree": "../assets/color-palette4.png",
     "icon": "🎨",
     "githubUrl": "https://github.com/Mstudent1996/color-palette",
-    "demoUrl": "https://color-palette-pictures.netlify.app/"
+    "demoUrl": "https://color-palettes-project.vercel.app/"
   },
 
   {
@@ -33,7 +33,7 @@
     "imageThree": "../assets/petsnap4.png",
     "icon": "🐾",
     "githubUrl": "https://github.com/Mstudent1996/petSnap",
-    "demoUrl": ""
+    "demoUrl": "https://pet-snap-ten.vercel.app/"
   },
 
   {
@@ -52,7 +52,7 @@
     "imageFour": "../assets/recipes5.png",
     "icon": "🍽️",
     "githubUrl": "https://github.com/Mstudent1996/Ping-laver-mad",
-    "demoUrl": "https://ping-laver-mad.netlify.app/"
+    "demoUrl": "https://ping-laver-mad.vercel.app/"
   },
 
   {
@@ -69,7 +69,7 @@
     "imageTwo": "../assets/ai-psykiatri3.png",
     "icon": "🧠",
     "githubUrl": "https://github.com/Mstudent1996/ai-i-psykiatrien",
-    "demoUrl": "https://ai-i-psykiatrien.netlify.app/"
+    "demoUrl": "https://ai-i-psykiatrien.vercel.app/"
   },
 
   {
@@ -87,6 +87,6 @@
     "imageThree": "../assets/webshop4.png",
     "icon": "🛒",
     "githubUrl": "https://github.com/Mstudent1996/plug-and-pick",
-    "demoUrl": "https://plug-and-pick.netlify.app/"
+    "demoUrl": "https://plug-and-pick.vercel.app/"
   }
 ]
